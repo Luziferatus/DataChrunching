@@ -26,7 +26,7 @@ socketIO-client==0.7.2
 spyder-kernels==1.9.0
 tornado==6.0.4
 traitlets==4.3.3
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.1.9
 websocket-client==0.57.0
 wurlitzer==2.0.0
